@@ -9,3 +9,5 @@ Speech enhancement is task of taking a noisy speech input and producing an enhan
 - Udacity course on TensorFlow (modules 2,3,4,5,6)
 - ResNet architecture
 - Working of GANs
+- RNN
+- Autoencoder model implementation
