@@ -11,3 +11,4 @@ Speech enhancement is task of taking a noisy speech input and producing an enhan
 - Working of GANs
 - RNN
 - Autoencoder model implementation
+- SEGAN paper implementation
