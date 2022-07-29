@@ -8,32 +8,43 @@ The main implementation of the project is done in Final.ipynb
 ## Content covered
 
 - Python, git basics
+
 These were covered during 8th to 14th May
 
 - ML Crash Course by Google (up to embeddings)
+
 This was covered during 15th May to 21st May
 
 - Udacity course on TensorFlow (modules 2,3,4,5,6)
+
 This was covered during 22nd May to 4th June
 
 - ResNet architecture
+
 This was covered during 5th June to 7th June
 
 - YouTube series on GANs
+
 This was covered during 8th June to 13th June
 
 - GAN implementation on MNIST
+
 This was done during 14th June to 17th June
 
 - RNN part from Sequence Models course of Deep Learning Specialization on Coursera
+
 This was covered during 18th June to 20th June
 
 - Autoencoder model implementation
+
 This was done during 21st June to 26th June
 
 - SEGAN paper reading
+
 This was done during 4th July to 9th July
+
 The paper is available at https://arxiv.org/abs/1703.09452
 
 - SEGAN implementation
+
 This was done during 17th July to 29th July
