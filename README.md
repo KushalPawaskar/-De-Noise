@@ -9,7 +9,7 @@ The main implementation of the project is done in Final.ipynb
 
 - Python, git basics
 
-These were covered during 8th to 14th May
+-- These were covered during 8th to 14th May
 
 - ML Crash Course by Google (up to embeddings)
 
